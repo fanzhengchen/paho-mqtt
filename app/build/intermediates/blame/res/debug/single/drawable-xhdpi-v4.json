@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mark/Desktop/org.eclipse.paho.android.service.sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/arrow.png",
+        "source": "/home/mark/Desktop/org.eclipse.paho.android.service.sample/app/src/main/res/drawable-xhdpi/arrow.png"
+    },
+    {
+        "merged": "/home/mark/Desktop/org.eclipse.paho.android.service.sample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/home/mark/Desktop/org.eclipse.paho.android.service.sample/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

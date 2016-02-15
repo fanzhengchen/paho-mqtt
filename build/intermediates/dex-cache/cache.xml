@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mark/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.android.service/1.0.2/2d956522c556caeb35148445ecd059ebe67331f6/org.eclipse.paho.android.service-1.0.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d956522c556caeb35148445ecd059ebe67331f6">
+        <dex dex="/home/mark/Desktop/org.eclipse.paho.android.service.sample/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.android.service-1.0.2_ff02ecd3b0ab21f619a10740dae19cb56985dc56.jar" />
+    </item>
+    <item
+        jar="/home/mark/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.client.mqttv3/1.0.2/11752d3f24d1a9deda4533a7ca18d8496417ceeb/org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
+        <dex dex="/home/mark/Desktop/org.eclipse.paho.android.service.sample/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.client.mqttv3-1.0.2_113292a7278287174077e96be68783194c8040cb.jar" />
+    </item>
+    <item
+        jar="/home/mark/.gradle/caches/modules-2/files-2.1/com.google.android/support-v4/r7/24d0f6da34c3a2bfcf736ab42d51c91ac821ee22/support-v4-r7.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="24d0f6da34c3a2bfcf736ab42d51c91ac821ee22">
+        <dex dex="/home/mark/Desktop/org.eclipse.paho.android.service.sample/app/build/intermediates/pre-dexed/debug/support-v4-r7_f10634b6b26985983827c4014e0496d938f659ea.jar" />
+    </item>
+
+</items>
